@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -130,6 +131,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 =======
+=======
+>>>>>>> c2b4a07 (initial setup)
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -166,4 +169,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 >>>>>>> e3e8008 (initial setup)
+=======
+>>>>>>> c2b4a07 (initial setup)
